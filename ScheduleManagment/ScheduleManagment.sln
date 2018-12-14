@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleManagment", "ScheduleManagment\ScheduleManagment.csproj", "{1E205206-15C6-474F-AB1B-69B5B4AAAB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E205206-15C6-474F-AB1B-69B5B4AAAB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E205206-15C6-474F-AB1B-69B5B4AAAB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E205206-15C6-474F-AB1B-69B5B4AAAB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E205206-15C6-474F-AB1B-69B5B4AAAB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B037D92A-8701-4A8A-9AD3-CBA9603EC952}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/johnpaulklein
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ScheduleManagment\\ScheduleManagment.csproj
+		SccProjectName1 = ScheduleManagment
+		SccLocalPath1 = ScheduleManagment
+	EndGlobalSection
+EndGlobal
